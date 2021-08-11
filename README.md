@@ -1,2 +1,2 @@
 # kubeflow-sentiment-analysis
-Training a sentiment analysis model based on Twitter Data with kubeflow pipelines
+Training a sentiment analysis model based on Twitter Data with kubeflow pipelines. Data taken from kaggle Twitter US Airline Sentiment dataset which was originally sourced from Crowdflower's Data for Everyone.
